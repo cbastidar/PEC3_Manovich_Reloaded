@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 El treball d'Anadol aborda els reptes i les possibilitats que la informàtica ubiqua ha imposat a la humanitat i el que significa ser humà a l'era de la IA. Explora com la percepció i l'experiència del temps i l'espai estan canviant radicalment ara que les màquines dominen la nostra vida quotidiana. 
 
-![Casa Batlló](https://youtu.be/3s8QD0aH5g4) 
+![Casa Batlló](https://refikanadol.com/wp-content/uploads/2018/01/refik-anadol.jpg) En proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
 
 
 ### Referencias y Bibliografía
