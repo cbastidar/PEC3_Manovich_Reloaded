@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació.
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -26,7 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El treball d'Anadol aborda els reptes i les possibilitats que la informàtica ubiqua ha imposat a la humanitat i el que significa ser humà a l'era de la IA. Explora com la percepció i l'experiència del temps i l'espai estan canviant radicalment ara que les màquines dominen la nostra vida quotidiana. 
+
+![Casa Batlló](https://youtu.be/3s8QD0aH5g4) 
 
 
 ### Referencias y Bibliografía
