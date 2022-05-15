@@ -39,13 +39,17 @@ Rl mateix Anadol parla de Manovich en la seva pròpia web: "la noció d'espai f�
 
 
 
-## RATAS, RATAS, RATAS!: Caso 2
+## RATES, RATES, RATES!: Caso 2
 
-Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'exposició RATAS, RATAS, RATAS!. El títol es degut al primer hackeig que es va produir el 1903 quan  Marconi va voler presentar al públic londinenc el primer missatge enviat sense fil. Abans de començar, l’aparell receptor va emetre un missatge en codi morse que deia “Rates! ¡Rates! ¡Rates!”, seguit de diversos insults vers el científic i els que allà eren presents. La ràdio no era un canal privat com Marconi l’havia fet aparentar; els missatges sense fil podien ser interceptats i interferits. Aquest curt i intrusiu fragment va esdevenir el primer hack de la història.
+Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'exposició RATES, RATES, RATES!. El títol es degut al primer hackeig que es va produir el 1903 quan  Marconi va voler presentar al públic londinenc el primer missatge enviat sense fil. Abans de començar, l’aparell receptor va emetre un missatge en codi morse que deia “Rates! ¡Rates! ¡Rates!”, seguit de diversos insults vers el científic i els que allà eren presents. La ràdio no era un canal privat com Marconi l’havia fet aparentar; els missatges sense fil podien ser interceptats i interferits. Aquest curt i intrusiu fragment va esdevenir el primer hack de la història.
 
 ![Caixaforum](https://img.youtube.com/vi/J2yQL_MLmiw/0.jpg)](https://www.youtube.com/watch?v=J2yQL_MLmiw)) 
 
-Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
+Una de les artistes que formen part de l'exposició és Elena Ansis. L'artista diu sempre que els ordinadors con el mitjà per la seva expressió. Inicialment no sembla que hi hagi tecnologia ni algoritmes en la seva obra al Caixaforum, però quan t'endinse dins del món d'Elena, veus que la seva obra es basa en obres realitzades en la seva totalitat amb ordinadors. Ella va formar part d'una corrent dels anys setanta del segle passat que anava en direcció oposada del expresionisme abstracte que es feia principalment a Madrid i Barcelona, i va apostar per geometrisme i constructivisme. Era una visió més racionalista de la pintura. Elena Ansis es va iniciar en el centre de càlcul de la Complutense l'any 1972. L'origen va ser molt curiós. Era l'any 1967 quan IBM va donar a la Universitat un ordinador i, es va decidir, fer recerca cultural al voltant de l'art mitjançant aquest ordinador. Va ser el primer intent d'incorporar l'ordinador a la creació artística. Ens hem de situar en el temps. Franco encara vivia i no havia cap publicació d'art a Espanya. I aquest fet va suposar dos aspectes molt importants. Per un costat va reunir a molts artistes al voltant d'un ordinador i, par l'altre, va reunir no sols a artistes, sinò a persones de coneixements científics interessats en la seva aplicació a l'art( físics, matemàtics, enginyers). Segons Elena, aquest fet és un dels més importants que han passat a Espanya al segle XX.
+
+
+
+
 
 I no vull finalitzar sense anomenar la meva visita a l'exposició de Magritte. Vaig assistir a la visita guiada pel museu i ens van parlar de realitats diferents, que Magritte va ser un dels impulsors de canviar la visió tradicional del quadre pictòric com una finestra de la realitat. El pintor treballa amb paraules a la seva pintura per explicar que s'ha de descriure el que es dibuixa perque ha deixat de ser una relitat per ser una representació de la mateixa.
 
