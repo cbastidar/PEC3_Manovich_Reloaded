@@ -30,6 +30,8 @@ El treball d'Anadol aborda els reptes i les possibilitats que la informàtica ub
 
 ![Casa Batlló](https://refikanadol.com/wp-content/uploads/2018/01/refik-anadol.jpg) En proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
 
+![Caixaforum](https://img.youtube.com/vi/J2yQL_MLmiw/0.jpg)](https://www.youtube.com/watch?v=J2yQL_MLmiw)) En proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
+
 
 ### Referencias y Bibliografía
 
