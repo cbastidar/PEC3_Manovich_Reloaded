@@ -31,12 +31,17 @@ El treball d'Anadol aborda els reptes i les possibilitats que la informàtica ub
 Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'exposició RATAS, RATAS, RATAS!. El títol es degut al primer hackeig que es va produir en 
 
 ![Caixaforum](https://img.youtube.com/vi/J2yQL_MLmiw/0.jpg)](https://www.youtube.com/watch?v=J2yQL_MLmiw)) En proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
-I no vull finalitzar sense anomenar 
+
+I no vull finalitzar sense anomenar la meva visita a l'exposició de Magritte. Vaig assistir a la visita guiada pel museu i ens van parlar de realitats diferents, que Magritte va ser un dels impulsors de canviar
+
+
+![El model vermell](https://cdnb.20m.es/trasdos/files/2012/04/Le-Modele-Rouge.jpg)Le Modele Rouge és un exemple d'hibridació, una de las técniques amb les que més jugava Magritte. Com es pot veure, en l'obra, uns peus humans es converteixen en unes botes. Magritte va dir "El problema de les sabates demostra com el més primitiu passa a acceptarse a base d'hàbits"con las que jugaba el artista. La únió del peu amb la bota de cuir es presenta en la realitat com un amonstruosa combinació i, en ambdós casos es tracta de pell.
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * https://blogs.20minutos.es/trasdos/2012/04/11/rene-magritte/
+* MAGRITTE, EL CAZADOR DE SIMILITUDES PERDIDAS: AMBIVALENCIA DE LA FEMINIDAD COMO GÉNESIS DE LA DIALÉCTICA DE LA MIRADA MEMORIA para optar al grado de Doctor. Madrid, 2013 © Mª Ángeles Arenal García, 2012
 * 
 
 
