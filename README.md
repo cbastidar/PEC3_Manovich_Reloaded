@@ -11,7 +11,9 @@ Fecha: 15/05/2022
 
 ## Plantejament
 
-Lev Manovich ens parla de nous llenguatges visuals d'imatges en moviment creades mitjançant software. És cert que ens parla a "El Software toma el mando" pensant majoritariament en el cimnema i producció de mitjans audiovisuals com la publicitat a finals del segle XX i principis del segle XXI. I també ens diu que aquesta hibridació de mitjans també es manifesta en diversos àmbits de la cultura. I és precisament en les imatges en moviment on Manovich veu un exemple on la nova lògica cultural que s'està manifestant de forma majoritària i brillant. I de cultura és on he centrat els dos casos del PAC3.  
+Lev Manovich ens parla de nous llenguatges visuals d'imatges en moviment creades mitjançant software. És cert que ens parla a "El Software toma el mando" pensant majoritariament en el cimnema i producció de mitjans audiovisuals com la publicitat a finals del segle XX i principis del segle XXI. I també ens diu que aquesta hibridació de mitjans també es manifesta en diversos àmbits de la cultura. I és precisament en les imatges en moviment on Manovich veu un exemple on la nova lògica cultural que s'està manifestant de forma majoritària i brillant. I de cultura és on he centrat els dos casos del PAC3. 
+
+En els dos casos podem parlar tant d'hibridació com de la "remezcla" de diferents tècniques i llenguatges. Estem davant de tipologies de de mitjans simulats que passen a funcionar com components de moltes combinacions de mitjans.
 
 
 ## Casa Batlló i Refik Anadol: Cas 1
@@ -28,8 +30,8 @@ Aquesta obra d'art digital, que es va subhastar a Christie's el 10 de maig d'aqu
 
 
 
-![Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/) 
-Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
+![Rafek Anadol davant la Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/) 
+Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina.
 
 
 
