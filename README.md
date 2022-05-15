@@ -66,8 +66,7 @@ Bé, tant les lectures de Manovich com les seves referències a la hibridadió, 
 * Manovich, Lev. (2016) **Instagram and Contemporary Image**
 * https://www.artmajeur.com/es/magazine/2-noticias-de-arte/la-iconica-casa-batllo-de-gaudi-en-nft-de-refik-anadol-se-vendio-por-1-38-millones-de-dolares-en-christie-s/331528
 * https://caixaforum.org/ca/barcelona/p/rates-la-gramatica-poetica-del-hack_a29715374
-* 
-* 
+* http://manovich.net/
 
 
 ----
