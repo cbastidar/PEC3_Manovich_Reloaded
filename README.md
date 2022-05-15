@@ -33,6 +33,8 @@ Aquesta obra d'art digital, que es va subhastar a Christie's el 10 de maig d'aqu
 ![Rafek Anadol davant la Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/) 
 Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina.
 
+Rl mateix Anadol parla de Manovich en la seva pròpia web: "la noció d'espai físic ha canviat dràsticament durant les últimes dues dècades, i per a Anadol, que cita el treball del teòric dels nous mitjans Lev Manovich, el següent pas lògic després de l'arquitectura és adonar-se de com l'"espai invisible" de les dades electròniques flueix. pot ser igual de físic, substancial i fins i tot emocional, en mans dels artistes.
+
 
 
 ## Re-descubriendo la hibridacion: Caso 2
