@@ -30,18 +30,22 @@ Aquesta obra d'art digital, que es va subhastar a Christie's el 10 de maig d'aqu
 
 
 
-![Rafek Anadol davant la Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/) 
+![Rafek Anadol](https://refikanadol.com/wp-content/uploads/2018/01/refik-anadol.jpg) 
+
+
 Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina.
 
 Rl mateix Anadol parla de Manovich en la seva pròpia web: "la noció d'espai físic ha canviat dràsticament durant les últimes dues dècades, i per a Anadol, que cita el treball del teòric dels nous mitjans Lev Manovich, el següent pas lògic després de l'arquitectura és adonar-se de com l'"espai invisible" de les dades electròniques flueix. pot ser igual de físic, substancial i fins i tot emocional, en mans dels artistes.
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## RATAS, RATAS, RATAS!: Caso 2
 
-Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'exposició RATAS, RATAS, RATAS!. El títol es degut al primer hackeig que es va produir en 
+Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'exposició RATAS, RATAS, RATAS!. El títol es degut al primer hackeig que es va produir el 1903 quan  Marconi va voler presentar al públic londinenc el primer missatge enviat sense fil. Abans de començar, l’aparell receptor va emetre un missatge en codi morse que deia “Rates! ¡Rates! ¡Rates!”, seguit de diversos insults vers el científic i els que allà eren presents. La ràdio no era un canal privat com Marconi l’havia fet aparentar; els missatges sense fil podien ser interceptats i interferits. Aquest curt i intrusiu fragment va esdevenir el primer hack de la història.
 
-![Caixaforum](https://img.youtube.com/vi/J2yQL_MLmiw/0.jpg)](https://www.youtube.com/watch?v=J2yQL_MLmiw)) En proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
+![Caixaforum](https://img.youtube.com/vi/J2yQL_MLmiw/0.jpg)](https://www.youtube.com/watch?v=J2yQL_MLmiw)) 
+
+Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
 
 I no vull finalitzar sense anomenar la meva visita a l'exposició de Magritte. Vaig assistir a la visita guiada pel museu i ens van parlar de realitats diferents, que Magritte va ser un dels impulsors de canviar la visió tradicional del quadre pictòric com una finestra de la realitat. El pintor treballa amb paraules a la seva pintura per explicar que s'ha de descriure el que es dibuixa perque ha deixat de ser una relitat per ser una representació de la mateixa.
 
@@ -57,6 +61,8 @@ Bé, tant les lectures de Manovich com les seves referències a la hibridadió, 
 * MAGRITTE, EL CAZADOR DE SIMILITUDES PERDIDAS: AMBIVALENCIA DE LA FEMINIDAD COMO GÉNESIS DE LA DIALÉCTICA DE LA MIRADA MEMORIA para optar al grado de Doctor. Madrid, 2013 © Mª Ángeles Arenal García, 2012
 * Manovich, Lev. (2016) **Instagram and Contemporary Image**
 * https://www.artmajeur.com/es/magazine/2-noticias-de-arte/la-iconica-casa-batllo-de-gaudi-en-nft-de-refik-anadol-se-vendio-por-1-38-millones-de-dolares-en-christie-s/331528
+* https://caixaforum.org/ca/barcelona/p/rates-la-gramatica-poetica-del-hack_a29715374
+* 
 * 
 
 
