@@ -35,7 +35,7 @@ Tot sortint de l'exposició de Magritte al Caixaforum, em vaig trobar amb l'expo
 I no vull finalitzar sense anomenar la meva visita a l'exposició de Magritte. Vaig assistir a la visita guiada pel museu i ens van parlar de realitats diferents, que Magritte va ser un dels impulsors de canviar la visió tradicional del quadre pictòric com una finestra de la realitat. El pintor treballa amb paraules a la seva pintura per explicar que s'ha de descriure el que es dibuixa perque ha deixat de ser una relitat per ser una representació de la mateixa.
 
 
-![El model vermell](https://cdnb.20m.es/trasdos/files/2012/04/Le-Modele-Rouge.jpg)Le Modele Rouge és un exemple d'hibridació, una de las técniques amb les que més jugava Magritte. Com es pot veure, en l'obra, uns peus humans es converteixen en unes botes. Magritte va dir "El problema de les sabates demostra com el més primitiu passa a acceptarse a base d'hàbits"con las que jugaba el artista. La únió del peu amb la bota de cuir es presenta en la realitat com un amonstruosa combinació i, en ambdós casos es tracta de pell.
+![El model vermell](https://cdnb.20m.es/trasdos/files/2012/04/Le-Modele-Rouge.jpg) Le Modele Rouge és un exemple d'hibridació, una de las técniques amb les que més jugava Magritte. Com es pot veure, en l'obra, uns peus humans es converteixen en unes botes. Magritte va dir "El problema de les sabates demostra com el més primitiu passa a acceptarse a base d'hàbits"con las que jugaba el artista. La únió del peu amb la bota de cuir es presenta en la realitat com un amonstruosa combinació i, en ambdós casos es tracta de pell.
 
 Bé, tant les lectures de Manovich com les seves referències a la hibridadió, te n'adones que els seus conceptes van més ennlà del món digital, ja que , directa o indirectament, la digitalització i el software comença a estar present en el canvi cultural i social del nostre món. O ens adaptem, o ens esclatarà el cap. 
 
@@ -44,7 +44,7 @@ Bé, tant les lectures de Manovich com les seves referències a la hibridadió, 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * https://blogs.20minutos.es/trasdos/2012/04/11/rene-magritte/
 * MAGRITTE, EL CAZADOR DE SIMILITUDES PERDIDAS: AMBIVALENCIA DE LA FEMINIDAD COMO GÉNESIS DE LA DIALÉCTICA DE LA MIRADA MEMORIA para optar al grado de Doctor. Madrid, 2013 © Mª Ángeles Arenal García, 2012
-* 
+* Manovich, Lev. (2016) **Instagram and Contemporary Image**
 
 
 ----
