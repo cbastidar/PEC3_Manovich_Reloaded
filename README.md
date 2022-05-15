@@ -28,7 +28,7 @@ Aquesta obra d'art digital, que es va subhastar a Christie's el 10 de maig d'aqu
 
 
 
-![Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/?utm_source=ig_embed&ig_rid=f902b796-78fd-445a-aefc-4c65d75d2369) 
+![Casa Batlló](https://www.instagram.com/p/CdbEWVbjjWH/) 
 Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
 
 
