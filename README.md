@@ -1,14 +1,11 @@
 # PEC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació.
 
-### Recurso de aprendizaje de Cultura Digital 
 
 
 Autor: Carles Bastida Raja
 
 
 Fecha: 15/05/2022
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 
@@ -25,7 +22,9 @@ Però abans de continuar en l'anàlisi de l'obra, us convido a veure-la:
 
 ![Casa Batlló](https://img.youtube.com/vi/oOsAexs6Bl4/0.jpg)](https://www.youtube.com/watch?v=oOsAexs6Bl4))
 
-Estem davant una barreja de tècniques
+Estem davant una barreja de tècniques on la Inteligència Artificial és el centre de la seva obra. Vol ser un homenatge a Antoni Gaudí. El mateix autor parla de que la seva obra es fonamenta en "ensenyar a una màquina que no oblida". Refik va més enllà i ens diu: "Com no coneixem la ment de Gaudí, fem servir la AI per guiar-no a través de les dades pas a pas". L'autor sempre va manifestar que es volia endinsar. la ment de Gaudí i volia donar vida a una de les seves obres més emblemàtiques, la Casa Batlló. A la seva obra la va anomenar Living Architecture i es cert que és una experiència immersiva que ens permet veure la Casa Batlló de formes inimaginables als que la hem vism centenars de vegades davant l'edificci del Passeig de Gràcia. 
+
+
 
 ![Casa Batlló](https://refikanadol.com/wp-content/uploads/2018/01/refik-anadol.jpg) 
 Proposant la possibilitat d'una "arquitectura postdigital", Anadol convida el seu públic a imaginar realitats alternatives redefinint les funcionalitats dels elements arquitectònics tant interiors com exteriors. Afronta això avançant més enllà de la integració dels mitjans en formes construïdes i traduint la lògica d'una nova tecnologia de mitjans en art i disseny, especialment les seves obres exploren l'espai entre entitats digitals i físiques creant una relació híbrida entre l'arquitectura i les arts mediàtics amb la màquina. intel·ligència.
@@ -51,6 +50,8 @@ Bé, tant les lectures de Manovich com les seves referències a la hibridadió, 
 * https://blogs.20minutos.es/trasdos/2012/04/11/rene-magritte/
 * MAGRITTE, EL CAZADOR DE SIMILITUDES PERDIDAS: AMBIVALENCIA DE LA FEMINIDAD COMO GÉNESIS DE LA DIALÉCTICA DE LA MIRADA MEMORIA para optar al grado de Doctor. Madrid, 2013 © Mª Ángeles Arenal García, 2012
 * Manovich, Lev. (2016) **Instagram and Contemporary Image**
+* https://www.artmajeur.com/es/magazine/2-noticias-de-arte/la-iconica-casa-batllo-de-gaudi-en-nft-de-refik-anadol-se-vendio-por-1-38-millones-de-dolares-en-christie-s/331528
+* 
 
 
 ----
